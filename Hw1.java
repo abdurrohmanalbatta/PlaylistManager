@@ -17,9 +17,6 @@ I try to cover all edge cases.
 */
 
 
-
-package playlistmanager;
-
 class Song{
     String title;
     String artist;
