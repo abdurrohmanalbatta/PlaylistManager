@@ -1,7 +1,4 @@
 
-package playlistmanager;
-
-
 import java.util.Scanner; 
  
 public class PlaylistManager { 
